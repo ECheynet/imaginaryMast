@@ -1,4 +1,4 @@
-# Sonic Anemometer Data Toolbox for Tower-mounted Sensors: The Imaginary Mast Approach
+# Sonic Anemometer Toolbox: the Imaginary Mast Approach
 
 ## Summary
 
